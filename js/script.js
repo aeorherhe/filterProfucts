@@ -1,5 +1,3 @@
-// let productLists = [...products];
-
 const productsContainer = document.querySelector(".products-ctn");
 
 // source images from api

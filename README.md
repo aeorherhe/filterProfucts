@@ -6,8 +6,8 @@
 
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [live site]()
+- Solution URL: [solution](https://github.com/aeorherhe/filterProfucts.git)
+- Live Site URL: [live site](https://aeorherhe-filter-products.netlify.app/)
 
 ### Built with
 
@@ -18,6 +18,10 @@
 - Vanila JavaScript
 - ES6 modules
 - Map.filter
+- Array.includes method
+- Set method (new Set)
+- dataset attribute
+- Dynamic filter buttons
 
 ## Author
 
