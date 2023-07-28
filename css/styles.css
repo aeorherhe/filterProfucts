@@ -38,7 +38,6 @@ img {
 }
 
 .main {
-  outline: var(--line-1);
   width: 90vw;
   padding: 2rem 1rem;
   max-width: 100rem;
