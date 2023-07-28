@@ -92,7 +92,7 @@ img {
 }
 
 .product {
-  padding: 1rem;
+  padding: 1rem 0;
   & .product-name {
     color: #5c5b5b;
     letter-spacing: 0.05rem;
